@@ -1,0 +1,55 @@
+Statistical Summary & Key Insights
+A. Overview
+Total Internships: 200
+Unique Companies: 10
+Unique Locations: 7 (Gaza, Ramallah, Hebron, Bethlehem, Nablus, Jenin, Jerusalem)
+Date Range: November 2025 to February 2026.
+B. Salary (Stipend) Analysis
+Minimum Stipend: ~700 ILS (e.g., Bank of Palestine, Mobile UI/UX)
+Maximum Stipend: ~1,990 ILS (e.g., Palestine Polytechnic University, Java Developer)
+Average Stipend: ~1,350 ILS/month.
+Highest Paying Field: Cybersecurity and Cloud Computing roles tend to have higher average stipends compared to general Web Development.
+C. Geographic Distribution
+Gaza: High concentration of technical roles (PalTel, Massar, Nafith).
+Ramallah: Hub for FinTech (Bank of Palestine, Palestine Stock Exchange) and High-tech (ASAL, Exalt).
+Hebron: Dominated by Palestine Polytechnic University and Nafith Logistics.
+Jenin: Exclusively Arab American University internships.
+Remote Work: Approximately 46% of the internships offer a remote work option.
+D. Skills Demand (Top 5 Required)
+Python: The most dominant language, crossing Data Science, Web, and Automation.
+SQL: Essential for almost all Data, Business Intelligence, and Backend roles.
+Java: Heavy usage in Banking (FinTech) and Enterprise software.
+React: The go-to library for Frontend and Mobile (React Native).
+Docker/Kubernetes: High demand due to the prevalence of Cloud/DevOps roles.
+E. Field Trends
+Dominant Fields: Software Engineering, Data Science, and FinTech.
+Niche Fields: "Artificial Intelligence" and "Cybersecurity" are emerging strongly, particularly with companies like ASAL and Exalt.
+
+Visualization Plan:
+Internship Count by Company (Bar Chart)
+Geographic Distribution (Donut/Pie Chart)
+Average Monthly Stipend by Company (Bar Chart)
+Remote vs. On-Site Availability (Pie Chart)
+Top 10 Most In-Demand Skills (Horizontal Bar Chart)
+Stipend Distribution by Field (Box Plot)
+Internship Start Dates (Timeline) (Line/Area Chart)
+
+Detailed Breakdown
+Who is hiring?
+PalTel Group and Bank of Palestine are the volume leaders.
+ASAL Technologies and Exalt Technologies focus heavily on specialized engineering (AI/ML and Cyber).
+Universities (AAU, PPU) act as major employers in their respective cities (Jenin, Hebron), likely focusing on research and academic-adjacent tech roles.
+Where is the money?
+Exalt Technologies and ASAL Technologies appear to have competitive stipends, likely due to the specialized nature of the work (Cybersecurity/AI).
+FinTech roles (Bank of Palestine, Palestine Stock Exchange) offer stable, mid-to-high range stipends.
+Note: The stipend data shows high variance even within the same company, suggesting that pay is heavily dependent on the specific role (e.g., a "Digital Forensics" intern is paid more than a general "Web Support" intern).
+Skill Clusters
+Data Science Cluster: Python, SQL, Pandas, Scikit-learn, TensorFlow.
+Web/Mobile Cluster: React, Node.js, JavaScript, Flutter, Swift, MongoDB.
+Enterprise/Backend Cluster: Java, Spring Boot, Docker, AWS, SQL.
+Embedded/Hardware Cluster: C/C++, Raspberry Pi, Arduino, Embedded Linux (Specific to PPU).
+Recommendation for Applicants
+Gaza Applicants: Focus on Cloud Networking, Python, and Java. PalTel and Massar are the key targets here.
+Ramallah Applicants: Focus on FinTech (Blockchain, Financial Modeling) and CyberSecurity.
+Hebron/Jenin Applicants: Academic research skills (Matlab, Latex) and Embedded Systems are highly valued in these regions due to the universities' influence.
+Skill Up: Learning Docker and AWS significantly increases eligibility across multiple high-paying companies.
